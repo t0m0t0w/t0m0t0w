@@ -1,7 +1,7 @@
-hello
+<h1>heisann eg heitar hermann!</h1>
 
-coding is my passion
+- akuratt nå arbeider jeg på [krydderbot,](https://discordapp.com/oauth2/authorize?client_id=760914388109754409)
 
-im learning coding
+- prokrastinerer med å hjelpe på [blalange.org,](https://github.com/hexahigh/blalange.org)
 
-i am very stupid
+- og sliter med **ai.**
